@@ -1,10 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: green;
+    background-color: pink;
     h2, h3{
     color: white;
     text-align: center;
     }
+}
+
+.nav-link:hover{
+    color: pink;
 }
 
 .buttons{
